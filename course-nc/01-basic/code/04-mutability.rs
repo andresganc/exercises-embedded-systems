@@ -10,5 +10,4 @@ fn main() {
     a = 2;
     println!("the value of a is : {a}");
 
-
 }
